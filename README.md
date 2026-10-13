@@ -2,7 +2,7 @@
 
 When building comprehensive biographical timelines, connecting cultural artifacts to the moments, locations, and historical figures that shaped them is essential. At [Histolines](https://histolines.com), our mission is to contextualize history by mapping events, people, places, and cultural milestones side-by-side on a unified chronological scale.
 
-Recently, I set out to integrate a dataset of artwork metadata from WikiArt into our core database. To fit seamlessly alongside millions of [historical events and biographical entries] (https://histolines.com), raw artwork titles and unstructured text descriptions needed to be systematically parsed, transformed, and enriched using Natural Language Processing (NLP).
+Recently, I set out to integrate a dataset of artwork metadata from WikiArt into our core database. To fit seamlessly alongside millions of [historical events and biographical entries](https://histolines.com), raw artwork titles and unstructured text descriptions needed to be systematically parsed, transformed, and enriched using Natural Language Processing (NLP).
 
 Here is an overview of how the pipeline was designed and why this work is critical for digital humanities and historical research.
 
